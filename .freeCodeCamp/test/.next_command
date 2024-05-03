@@ -1,0 +1,76 @@
+mkdir number_guessing_game
+cd number_guessing_game/
+git init
+git branch -m main
+git status
+git add number_guess.sh
+git commit -m"Initial commit"
+chmod +x number_guess.sh
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=number_guess
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+echo ${RANDOM:0:1}
+shuf --help
+shuf -i 1-1000 -n 1
+shuf -i 1-1000 -n 1
+shuf -i 1-1000 -n 1
+git status
+git add number_guess.sh
+git commit -m"feat: Reading user ID."
+ls --color=auto
+ls --color=auto -l
+./number_guess.sh
+./number_guess.sh
+git status
+git add number_guess.sh
+git commit -m"feat: Geussing loop."
+git log
+./number_guess.sh
+./number_guess.sh
+psql --username=freecodecamp --dbname=number_guess
+./number_guess.sh
+git add number_guess.sh
+git commit -m"fix: Replaced shuf with \$RANDOM"
+git log
+git add number_guess.sh
+git commit -m"refactor: Removed commented code."
